@@ -58,7 +58,7 @@ p{
 /* end nav */
 /* Start Landing */
 .landing {
-  background-image: url(/images/slider.jpg);
+  background-image: url(images/slider-01.jpg);
   background-size: cover;
   background-position: center;
   min-height: calc(100vh - 72px);
