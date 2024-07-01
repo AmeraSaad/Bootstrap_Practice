@@ -52,13 +52,11 @@ p{
 .navbar .navbar-toggler:focus{
   box-shadow: none;
 }
-.navbar .navbar-toggler[aria-expanded="true"]{
-  border-color: var(--green-color);
-}
+
 /* end nav */
 /* Start Landing */
 .landing {
-  background-image: url(images/slider-01.jpg);
+  background-image: url(../images/slider-01.jpg);
   background-size: cover;
   background-position: center;
   min-height: calc(100vh - 72px);
@@ -248,6 +246,14 @@ button {
 #blog .card h3,
 #blog .card a{
   color: var(--main-color);
+}
+
+/* contact */
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+  border-color: var(--main-color) !important;
+  box-shadow: none !important;
 }
 
 /* footer */
