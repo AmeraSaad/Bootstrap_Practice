@@ -5,6 +5,9 @@
   --color-dark: #403D38;
   --light-color:#F8F9FA;
 }
+.main-color{
+  color: var(--main-color);
+}
 
 body{
   font-family: "Alegreya Sans", sans-serif;
@@ -30,8 +33,8 @@ h1, h2, h3, h4, h5, h6 {
 .navbar{
   background-color: var(--light-color);
 }
-.navbar .logo{
-
+.navbar .logo img {
+  width:50%;
 }
 .navbar-brand{
   color: var(--main-color);
@@ -54,6 +57,7 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: none;
 }
 /* end nav */
+
 /* Start Landing */
 .landing {
   background-image: url(../images/drew-coffman-1872.jpg);
@@ -155,8 +159,18 @@ footer {
   color: var(--light-color);
   margin: 35px 0px;
 }
-.icons i {
-  color: var(--light-color);
-  font-size: 24px;
-  margin: 0px 10px;
+.icons a{
+  color: var(--main-color);
+}
+.icons a:hover.fa-facebook {
+  color: blue;
+}
+.icons a:hover.fa-google-plus {
+  color: red;
+}
+.icons a:hover.fa-linkedin {
+  color: blue;
+}
+.icons a:hover.fa-twitter {
+  color: blue;
 }
