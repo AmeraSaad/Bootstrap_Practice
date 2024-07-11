@@ -4,8 +4,8 @@ Welcome to my Bootstrap Practice Projects repository! This repository contains v
 
 ## Technologies Used
 Bootstrap
-HTML
-CSS
+- HTML
+= CSS
 
 ## Projects
 ### Project 1: [BakerySite]
