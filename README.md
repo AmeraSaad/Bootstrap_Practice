@@ -3,7 +3,7 @@
 Welcome to my Bootstrap Practice Projects repository! This repository contains various projects I've completed to practice and enhance my Bootstrap skills. Each project is hosted on GitHub Pages, and you can view them by clicking the links provided.
 
 ## Technologies Used
-= Bootstrap
+- Bootstrap
 - HTML
 - CSS
 
