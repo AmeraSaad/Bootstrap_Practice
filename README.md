@@ -12,7 +12,7 @@ CSS
 **Description:** The Family Bakery website is designed to present the bakery's services, gallery, and contact information in a visually appealing and user-friendly manner. The site includes several sections such as Home, About, Our Offers, Gallery, and Contact.
 **GitHub Pages Link:** [View Project] https://amerasaad.github.io/Bootstrap_Practice/BakerySite/
 
-### Project 1: [FokirPortfolio]
+### Project 2: [FokirPortfolio]
 **Description:** This is a responsive portfolio website template designed for showcasing your personal or professional portfolio. It includes sections for About Me, Services, Portfolio, Testimonials, Blog, and Contact.
 **GitHub Pages Link:** [View Project] https://amerasaad.github.io/Bootstrap_Practice/FokirPortfolio/
 
